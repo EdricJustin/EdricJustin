@@ -1,16 +1,13 @@
-## Hi there 👋
+### Edric Justin
 
-<!--
-**EdricJustin/EdricJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Medan, Indonesia. Backend and Mobile: Laravel, Go, Kotlin, Flutter.
 
-Here are some ideas to get you started:
+I build multi-tenant platforms for restaurants and schools, management systems for
+fitness, healthcare and professional-services clients, plus the Mobile apps that go
+with them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio** · [edricjustin.com](https://edricjustin.com)
+**LinkedIn** · [in/edricjustin-dev](https://www.linkedin.com/in/edricjustin-dev)
+
+Most of my production work lives in private company repositories, so the projects
+here are older study work.
